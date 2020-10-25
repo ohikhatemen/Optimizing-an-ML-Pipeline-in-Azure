@@ -1,0 +1,16 @@
+{
+  "Id": "Dataset",
+  "Name": "Dataset .NET file",
+  "ShortName": "Dataset",
+  "Ws20Name": "DataFrameDirectory",
+  "Description": "A serialized DataTable supporting partial reads and writes",
+  "IsDirectory": false,
+  "Owner": "Microsoft Corporation",
+  "FileExtension": "dataset.parquet",
+  "ContentType": "application/octet-stream",
+  "AllowUpload": false,
+  "AllowPromotion": true,
+  "AllowModelPromotion": false,
+  "AuxiliaryFileExtension": null,
+  "AuxiliaryContentType": null
+}
